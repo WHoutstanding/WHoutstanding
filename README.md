@@ -1,5 +1,5 @@
 <h1 align="center">
-   Welcome to Logan's Demo World
+   Welcome to Demo World
 </h1>
 
 <div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg"/></div>
