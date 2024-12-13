@@ -13,6 +13,6 @@
  
 ## Interest 👨🏽‍💻
 
-- NLP : Large Language Model, Prompt Engineering, Cross-Language Model and more things about NLP 
+- NLP : Large Language Model, Prompt Engineering and more things about NLP 
 - Language : Python, Pytorch, Transformers and Markdown
 - Theory : Neural Networks, Statistic Machine Learning, Distributed computing and something about Finetune
