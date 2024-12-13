@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">
+   Welcome to Logan's Demo World
+</h1>
 
-<!--
-**WHoutstanding/WHoutstanding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg"/></div>
+<br>
 
-Here are some ideas to get you started:
+## About ME 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm Zou Yuheng, a master's student from the University of International Business and Economics, School of Information Technology and Management, major in Data Science and Big Data Technology.
+- 📫 A constant learner and explorer, enthusiastic about participating in open-source projects related to NLP and LLM.
+- 💬 Email: [loganzou0421@163.com](loganzou0421@163.com)
+- 📄 My homepage: [Logan Zou](https://logan-zou.github.io/)
+ 
+## Interest 👨🏽‍💻
+
+- NLP : Large Language Model, Prompt Engineering, Cross-Language Model and more things about NLP 
+- Language : Python, Pytorch, Transformers and Markdown
+- Theory : Neural Networks, Statistic Machine Learning, Distributed computing and something about Finetune
