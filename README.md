@@ -6,6 +6,3 @@
 ## Interest 👨🏽‍💻
 - AI infra, Deep learning Framework.
 - Language : C/C++, Python.
-
-![](https://github-readme-stats.vercel.app/api?username=WHoutstanding&show_icons=true&theme=transparent)
-
